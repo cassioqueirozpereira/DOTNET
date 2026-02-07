@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DOTNET/1.0.0": {
+        "dependencies": {
+          "ExemploFundamentos.Common": "1.0.0"
+        },
+        "runtime": {
+          "DOTNET.dll": {}
+        }
+      },
+      "ExemploFundamentos.Common/1.0.0": {
+        "runtime": {
+          "ExemploFundamentos.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DOTNET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

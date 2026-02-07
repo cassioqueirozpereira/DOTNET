@@ -1,0 +1,15 @@
+/home/cassio/Documents/Projetos/ExampleExploring/bin/Debug/net10.0/ExampleExploring
+/home/cassio/Documents/Projetos/ExampleExploring/bin/Debug/net10.0/ExampleExploring.deps.json
+/home/cassio/Documents/Projetos/ExampleExploring/bin/Debug/net10.0/ExampleExploring.runtimeconfig.json
+/home/cassio/Documents/Projetos/ExampleExploring/bin/Debug/net10.0/ExampleExploring.dll
+/home/cassio/Documents/Projetos/ExampleExploring/bin/Debug/net10.0/ExampleExploring.pdb
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.GeneratedMSBuildEditorConfig.editorconfig
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.AssemblyInfoInputs.cache
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.AssemblyInfo.cs
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.csproj.CoreCompileInputs.cache
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.sourcelink.json
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.dll
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/refint/ExampleExploring.dll
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.pdb
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ExampleExploring.genruntimeconfig.cache
+/home/cassio/Documents/Projetos/ExampleExploring/obj/Debug/net10.0/ref/ExampleExploring.dll

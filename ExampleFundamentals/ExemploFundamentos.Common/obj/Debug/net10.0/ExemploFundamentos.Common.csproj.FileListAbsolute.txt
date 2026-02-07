@@ -1,0 +1,12 @@
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/bin/Debug/net10.0/ExemploFundamentos.Common.deps.json
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/bin/Debug/net10.0/ExemploFundamentos.Common.dll
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/bin/Debug/net10.0/ExemploFundamentos.Common.pdb
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.AssemblyInfoInputs.cache
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.AssemblyInfo.cs
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.sourcelink.json
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.dll
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/refint/ExemploFundamentos.Common.dll
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ExemploFundamentos.Common.pdb
+/home/cassio/Documents/Projetos/DOTNET/ExemploFundamentos.Common/obj/Debug/net10.0/ref/ExemploFundamentos.Common.dll
