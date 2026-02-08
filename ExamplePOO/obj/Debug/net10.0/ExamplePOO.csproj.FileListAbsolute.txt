@@ -1,0 +1,15 @@
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/bin/Debug/net10.0/ExamplePOO
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/bin/Debug/net10.0/ExamplePOO.deps.json
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/bin/Debug/net10.0/ExamplePOO.runtimeconfig.json
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/bin/Debug/net10.0/ExamplePOO.dll
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/bin/Debug/net10.0/ExamplePOO.pdb
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.AssemblyInfoInputs.cache
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.AssemblyInfo.cs
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.csproj.CoreCompileInputs.cache
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.sourcelink.json
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.dll
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/refint/ExamplePOO.dll
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.pdb
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ExamplePOO.genruntimeconfig.cache
+/home/cassio/Documents/Projetos/DOTNET/ExamplePOO/obj/Debug/net10.0/ref/ExamplePOO.dll
